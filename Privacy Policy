@@ -1,73 +1,76 @@
+SnapClip 瞬剪 · 生效日期：2026 年 10 月 13 日
+
+你的文档内容永远只保存在你的设备上，我们不会上传、也无法查看。我们只收集用于改进产品的匿名使用数据，其中不包含任何文档内容。
+
+1. 我们收集什么
+匿名使用统计：功能使用的类型与次数——例如保存了一次扫描、使用了 OCR、完成了一次导出或购买。这些数据不包含任何文档内容。
+匿名设备标识：首次使用时随机生成的一串标识，仅用于把同一台设备上的匿名统计关联起来。它无法用于跨 App 追踪，卸载重装后即失效。
+事件会附带 App 版本号与系统版本号，用于区分不同版本的使用情况。
+
+2. 我们不会收集什么
+你的文档内容、图片、扫描件
+OCR 识别出的文字
+文件名、文件路径、标签名称
+你的姓名、手机号、邮箱等任何个人身份信息
+3. 数据用途
+收集的数据仅用于了解哪些功能被使用，以决定后续开发方向并改进产品体验。
+
+我们不会将数据用于广告投放，也不会出售或分享给第三方。
+
+4. 第三方与追踪
+本 App 不包含任何第三方分析或广告 SDK，不进行跨 App 或跨网站追踪，不申请广告标识符（IDFA），因此不会弹出 App 跟踪透明度（ATT）授权。
+
+5. 数据存储与传输
+匿名统计数据先暂存在设备本地，随后通过 HTTPS 发送到我们自建的服务器。你的文档内容不会参与这一过程。
+
+6. 数据删除
+如需删除已上传的匿名统计数据，请通过下方邮箱与我们联系。
+
+7. 儿童隐私
+本 App 不面向 13 岁以下儿童，我们不会有意收集儿童的个人信息。
+
+8. 政策变更
+若本政策发生变更，我们会更新本页面并注明新的生效日期。
+
+9. 联系我们
+邮箱：183835370@qq.com
 
 Privacy Policy
+SnapClip · Effective date: October 13, 2026
 
-Last Updated: May 22, 2026
+In one line: your document content always stays on your device — we never upload it and cannot see it. We only collect anonymous usage data to improve the app, and it never contains your documents.
 
-Thank you for using "SnapClip" (hereinafter referred to as "the App"). We take your privacy seriously. This Privacy Policy explains how the App handles your data.
+1. What we collect
+Anonymous usage stats — the type and count of feature usage: for example, that a scan was saved, OCR was used, an export or a purchase happened. Never any document content.
+Anonymous device identifier — a random identifier generated on first use, used only to link anonymous events from the same device. It cannot be used for cross-app tracking, and it is cleared when you delete the app.
+Events also carry the app version and OS version so we can tell versions apart.
 
-1. Data Collection
-The App does not collect any personal information. We:
+2. What we never collect
+Your document content, images or scans
+Recognized OCR text
+File names, file paths or tag names
+Any personally identifiable information such as your name, phone or email
+3. How we use it
+Only to understand which features are used, so we can prioritize development and improve the product.
 
-Do not require account registration
+We never use the data for advertising, and we never sell or share it with third parties.
 
-Do not collect your name, email, location, or any other identifying information
+4. Third parties & tracking
+The app contains no third-party analytics or advertising SDKs, performs no cross-app or cross-site tracking, and requests no advertising identifier (IDFA), so it never shows an App Tracking Transparency (ATT) prompt.
 
-Do not integrate any third-party analytics or advertising SDKs
+5. Storage & transmission
+Anonymous usage events are buffered locally on your device and then sent to our own server over HTTPS. Your document content is never part of this.
 
-Do not access the internet (the App operates completely offline)
+6. Data deletion
+To request deletion of uploaded anonymous usage data, contact us at the email below.
 
-2. Camera & Photo Library Permissions
-The App requires access to your camera and photo library solely for document scanning and importing. All captured or imported images are stored exclusively on your device locally. We cannot access, view, or upload them.
+7. Children's privacy
+The app is not directed to children under 13, and we do not knowingly collect personal information from children.
 
-3. Document & Image Storage
-Your scans, original images, thumbnails, and other files are all stored locally in your device's sandbox (Documents/Scans/ directory). The App has no network permissions and will never transmit any files to external servers. You may delete data within the App at any time, or clear all files through system settings.
+8. Changes
+If this policy changes, we will update this page and note the new effective date.
 
-4. Third-Party Services
-The App does not integrate any third-party services (including but not limited to analytics, crash reporting, advertising, or social sharing SDKs). All features are implemented using Apple's native frameworks, and no information is disclosed to any third party.
+9. Contact
+Email: 183835370@qq.com
 
-5. Children's Privacy
-The App does not collect personal data from anyone, including children. If you are a guardian and have questions about data, please contact us using the information below.
-
-6. Policy Changes
-We may update this Privacy Policy from time to time. The updated version will be published within the App or on the App Store product page, with the effective date noted. Continued use of the App constitutes acceptance of the updated policy.
-
-7. Contact Us
-If you have any privacy-related questions, please contact us at:
-
-Email: [183835370@qq.com]
-
-隐私政策
-最后更新日期：2026年5月22日
-
-感谢您使用「瞬剪 / SnapClip」（以下简称“本App”）。我们高度重视您的隐私。本隐私政策旨在明确说明本App如何处理您的数据。
-
-1. 数据收集
-本App不收集任何个人信息。我们：
-
-不要求注册账号
-
-不收集您的姓名、邮箱、位置或其他身份信息
-
-不集成任何第三方分析或广告SDK
-
-不访问网络（本App完全离线运行）
-
-2. 相机与相册权限
-本App需要访问您的相机和相册，仅用于实现文档拍摄和导入功能。所有拍摄或导入的图片均仅保存在您的设备本地，我们无法获取、查看或上传。
-
-3. 文档与图片存储
-您的扫描件、原始图片、缩略图等文件全部存储在您设备的本地沙盒中（Documents/Scans/ 目录）。本App无网络权限，不会将任何文件传输至外部服务器。您可以随时在App内删除数据，或通过系统设置清除所有文件。
-
-4. 第三方服务
-本App未集成任何第三方服务（包括但不限于统计分析、崩溃报告、广告、社交分享SDK）。所有功能使用Apple原生框架实现，不会向第三方透露任何信息。
-
-5. 儿童隐私
-本App不收集任何人的个人数据，包括儿童。如果您是监护人且对数据有疑问，请通过下方联系方式联系我们。
-
-6. 政策变更
-我们可能会更新本隐私政策。更新版本将在App内或通过App Store页面发布，并注明生效日期。继续使用本App即表示您同意更新后的政策。
-
-7. 联系我们
-如有任何隐私相关问题，请通过以下方式联系我们：
-
-邮箱：[183835370@qq.com]
+© 2026 SnapClip 瞬剪
